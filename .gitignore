@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.*
+.env.local
+.env.*.local
+
+# Build and output
+dist/
+build/
+coverage/
+.nyc_output/
+.cache/
+.parcel-cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Runtime
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# TLS keys and certs
+*.pem
+*.key
+*.crt
+
